@@ -7,7 +7,6 @@ class Fibonacci
         }
         return fibonacciRecursive(n - 1) + fibonacciRecursive(n - 2);
     }
-
     int fibonacciNonRecursive(int n) {
         if (n <= 1) {
             return n;
