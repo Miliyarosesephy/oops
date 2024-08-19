@@ -1,3 +1,6 @@
+//to print reverse of a string
+//Miliya rose sephy
+//Roll no:39
 import java.util.Scanner;
 class reverse {
     public static void main(String[] args) {
