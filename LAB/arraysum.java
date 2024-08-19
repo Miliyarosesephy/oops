@@ -1,3 +1,7 @@
+//print the sum of array
+//Miliya rose sephy
+//roll no:39
+
 import java.util.*;
 class arraysum
 {
